@@ -5,4 +5,4 @@ Scrivi una password e premi invio, infine clicca sul pulsante traccia e ti verrÃ
 # Requisiti
 installa l'ambiente .NET CORE -->  https://dotnet.microsoft.com/download/dotnet-core/current/runtime
 
-il programma creato in Java e C# ha bisogno solo dell'ambiente .NET CORE in quanto il file JAR Ã¨ stato convertito in EXE
+installa la JVM --> https://www.java.com/it/download/manual.jsp
